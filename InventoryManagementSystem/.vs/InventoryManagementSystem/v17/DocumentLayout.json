@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,6 +87,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Interface\\IAccount.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IAccount.cs",
+              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Interface\\IAccount.cs",
+              "RelativeToolTip": "Application\\Interface\\IAccount.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:43:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:41:34.483Z",
+              "EditorCaption": ""
             }
           ]
         }
