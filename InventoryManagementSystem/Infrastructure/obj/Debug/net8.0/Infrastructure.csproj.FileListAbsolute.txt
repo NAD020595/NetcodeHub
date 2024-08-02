@@ -1,0 +1,13 @@
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

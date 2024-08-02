@@ -1,0 +1,13 @@
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll
