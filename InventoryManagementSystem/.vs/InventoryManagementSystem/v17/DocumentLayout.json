@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA627810-2132-4E13-87CF-6F6439375E8E}|Infrastructure\\Infrastructure.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\infrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA627810-2132-4E13-87CF-6F6439375E8E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E2ADE4-606E-46F5-9D6D-247E2B2D02F8}|WebUI\\WebUI.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1E2ADE4-606E-46F5-9D6D-247E2B2D02F8}|WebUI\\WebUI.csproj|solutionrelative:webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\response\\getuserwithclaimresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\response\\getuserwithclaimresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\request\\identity\\changeuserclaimrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\identity\\changeuserclaimrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\request\\identity\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\identity\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\request\\identity\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\identity\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\response\\baseuserclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\response\\baseuserclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\request\\identity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\identity\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\interface\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|e:\\learn\\netcodehub\\inventorymanagementsystem\\application\\dto\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E729A026-9C83-4F4A-BC13-1CF7AE2CC65F}|Application\\Application.csproj|solutionrelative:application\\dto\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,132 +94,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Infrastructure\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\DataAccess\\AppDbContext.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Infrastructure\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\DataAccess\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:51:41.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\WebUI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebUI\\appsettings.json",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\WebUI\\appsettings.json",
-              "RelativeToolTip": "WebUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T04:47:19.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetUserWithClaimResponseDTO.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\GetUserWithClaimResponseDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\Response\\GetUserWithClaimResponseDTO.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\GetUserWithClaimResponseDTO.cs",
-              "RelativeToolTip": "Application\\DTO\\Response\\GetUserWithClaimResponseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:46:05.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseUserClaimsDTO.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\BaseUserClaimsDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\Response\\BaseUserClaimsDTO.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\BaseUserClaimsDTO.cs",
-              "RelativeToolTip": "Application\\DTO\\Response\\BaseUserClaimsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:43:04.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Policy.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\Policy.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\Request\\Identity\\Policy.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\Policy.cs",
-              "RelativeToolTip": "Application\\DTO\\Request\\Identity\\Policy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:38:51.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginUserRequestDTO.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\LoginUserRequestDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\Request\\Identity\\LoginUserRequestDTO.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\LoginUserRequestDTO.cs",
-              "RelativeToolTip": "Application\\DTO\\Request\\Identity\\LoginUserRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:32:01.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateUserRequestDTO.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\CreateUserRequestDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\Request\\Identity\\CreateUserRequestDTO.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\CreateUserRequestDTO.cs",
-              "RelativeToolTip": "Application\\DTO\\Request\\Identity\\CreateUserRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:28:38.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ChangeUserClaimRequestDTO.cs",
               "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\ChangeUserClaimRequestDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTO\\Request\\Identity\\ChangeUserClaimRequestDTO.cs",
               "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Request\\Identity\\ChangeUserClaimRequestDTO.cs",
               "RelativeToolTip": "Application\\DTO\\Request\\Identity\\ChangeUserClaimRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T04:27:52.739Z",
+              "WhenOpened": "2024-08-12T09:40:07.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "IAccount.cs",
               "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Interface\\IAccount.cs",
               "RelativeDocumentMoniker": "Application\\Interface\\IAccount.cs",
               "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Interface\\IAccount.cs",
               "RelativeToolTip": "Application\\Interface\\IAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T04:43:36.247Z",
+              "WhenOpened": "2024-08-12T09:39:19.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Application\\Extension\\Identity\\ApplicationUser.cs",
-              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
-              "RelativeToolTip": "Application\\Extension\\Identity\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Response\\ServiceResponse.cs",
+              "ToolTip": "E:\\Learn\\NetcodeHub\\InventoryManagementSystem\\Application\\DTO\\Response\\ServiceResponse.cs",
+              "RelativeToolTip": "Application\\DTO\\Response\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T04:41:34.483Z",
+              "WhenOpened": "2024-08-12T09:35:49.437Z",
               "EditorCaption": ""
             }
           ]

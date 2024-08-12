@@ -11,3 +11,6 @@ E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Appli
 E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
 E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
 E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

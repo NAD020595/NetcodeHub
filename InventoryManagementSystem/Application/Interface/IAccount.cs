@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Application.DTO.Request.Identity;
+using Application.DTO.Response;
+using Application.DTO.Response.Identity;
 
 namespace Application.Interface
 {
@@ -12,9 +10,9 @@ namespace Application.Interface
         Task<ServiceResponse> CreateUserAsync(CreateUserRequestDTO model);
         Task<IEnumerable<GetUserWithClaimResponseDTO>> GetUsersWithClaimAsync();
         Task SetUpAsync();
-        Task<ServiceResponse> UpdateUserAsync(ChangeUserClaimnRequestDTO model);
-        Task SaveActivityAsync(ActivityTrackerRequestDTO model);
-        Task<IEnumerable<ActivityTrackerResponseDTO>> GetActivitiesAsync();
+        Task<ServiceResponse> UpdateUserAsync(ChangeUserClaimRequestDTO model);
+        //Task SaveActivityAsync(ActivityTrackerRequestDTO model);
+        //Task<IEnumerable<ActivityTrackerResponseDTO>> GetActivitiesAsync();
 
     }
 }

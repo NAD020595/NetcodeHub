@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.DTO.Response
+namespace Application.DTO.Response.Identity
 {
     public class GetUserWithClaimResponseDTO : BaseUserClaimsDTO
     {

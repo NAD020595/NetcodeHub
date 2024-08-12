@@ -11,3 +11,8 @@ E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\In
 E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Application.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.dll
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Application.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.pdb
+E:\Learn\NetcodeHub\InventoryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
